@@ -10,7 +10,7 @@ sidebar:
     nav: "docs"
 search: true
 ---
-# Abstraciton
+# Abstraciton(추상)
 
 ## 정의
 공통된 속성, 기능을 묶어 붙이는것, 이름만 알고 있어도 사용하는데 불편함이 없어야 된다.
